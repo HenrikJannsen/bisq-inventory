@@ -24,3 +24,8 @@ To build:
 ```
 $ ./gradlew clean build
 ```
+
+To update submodule:
+```
+$ git submodule update --remote
+```
